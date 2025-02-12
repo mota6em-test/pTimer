@@ -146,6 +146,11 @@ _A list of available cars displayed based on selected filters._
 ![Car Page](https://github.com/user-attachments/assets/e99f40a0-0465-4203-8e75-37e58713fc27)  
 _Detailed view of a selected car, including its specs and booking options._
 
+### Add new car (admin)
+![image](https://github.com/user-attachments/assets/d9eb4354-e828-4340-a82c-e0cbc7729a03)
+
+![image](https://github.com/user-attachments/assets/e7f2b05d-b422-4f48-ae70-ac79509c30d4)
+
 ### Login Page
 ![Login Page](https://github.com/user-attachments/assets/eef3820e-1c2c-4dc0-bc35-693f49603e58)  
 _User login page to access personal profiles and booking features._
@@ -161,5 +166,8 @@ _Admin’s profile page showing all car bookings and management options._
 ### Profile Page (User)
 ![Profile Page (User)](https://github.com/user-attachments/assets/cd64a6f4-ea38-4710-9dce-87c915ae8c11)  
 _User profile displaying the list of car bookings and user settings._
+
+### Booking a car
+![image](https://github.com/user-attachments/assets/39303cd0-5819-4a5d-8a93-03d5e6220832)
 
 
