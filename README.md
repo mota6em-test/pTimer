@@ -106,6 +106,20 @@
 This project is for educational purposes and is not intended for commercial use.
 
 ## ScreenShots
-![image](https://github.com/user-attachments/assets/61edc1fc-b685-4f02-ab0c-04bdc95661ff)
+# Home page
+![image](https://github.com/user-attachments/assets/5ff5cf17-572f-41b6-a68e-172c1bcba653)
+# Filter section
+![image](https://github.com/user-attachments/assets/b1e82dab-1a46-4823-8d5a-618e54ee6b84)
+# Cars section
+![image](https://github.com/user-attachments/assets/3165e7b3-3a3b-4205-b81a-0eb1222a5901)
+# Car page
+![image](https://github.com/user-attachments/assets/e99f40a0-0465-4203-8e75-37e58713fc27)
+# Login page
+![image](https://github.com/user-attachments/assets/eef3820e-1c2c-4dc0-bc35-693f49603e58)
+# Register page
+![image](https://github.com/user-attachments/assets/fa0b9a85-0d34-45b7-9cff-ed0e993dbf19)
+# Profile page (admin)
+![image](https://github.com/user-attachments/assets/7f036f6c-1e01-4785-92d2-73a64497dbcf)
+# Profile page (user)
+![image](https://github.com/user-attachments/assets/cd64a6f4-ea38-4710-9dce-87c915ae8c11)
 
-![image](https://github.com/user-attachments/assets/8e84f350-7388-48f2-836d-19788a4546a5)
