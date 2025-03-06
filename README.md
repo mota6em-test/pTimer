@@ -51,5 +51,5 @@ A **Szafari** egy komplex menedzsment játék, amely ötvözi a stratégiai gond
 ### Használati eset diagram
 ![Használati eset diagram](https://szofttech.inf.elte.hu/szofttech-c-2025/group-10/the-great-reserve/-/raw/master/UseCase.png?ref_type=heads "Használati eset diagram")
 ### Osztály diagram
-![Osztály diagram](#todo)
+![Osztály diagram](https://szofttech.inf.elte.hu/szofttech-c-2025/group-10/the-great-reserve/-/raw/master/Oszt%C3%A1ly_diagram.png?ref_type=heads)
  
