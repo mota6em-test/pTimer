@@ -1,6 +1,6 @@
 # Szafari 
 ## Leírás
-A **Szafari** egy egyjátékos, tycoon-stílusú valós idejű park szimulátor, amelyben egy afrikai szafarit kell irányítani. A játék során a játékos a park igazgatójaként különböző feladatokat lát el, beleértve az állatok gondozását, a turisták élményének maximalizálását és a pénzügyi egyensúly fenntartását. 
+A **Szafari** egy egyjátékos, tycoon-stílusú valós idejű park szimulátor, amelyb en egy afrikai szafarit kell irányítani. A játék során a játékos a park igazgatójaként különböző feladatokat lát el, beleértve az állatok gondozását, a turisták élményének maximalizálását és a pénzügyi egyensúly fenntartását. 
 
 A játék célja, hogy a park hosszú távon fenntarthatóan működjön, miközben a látogatók elégedettsége és a park gazdasági stabilitása is biztosított marad. A játékosnak folyamatosan egyensúlyban kell tartania a bevételeket és a kiadásokat, kezelnie kell az infrastruktúrát és figyelnie kell az állatpopuláció megfelelő összetételére.
 
@@ -18,7 +18,7 @@ A **Szafari** egy komplex menedzsment játék, amely ötvözi a stratégiai gond
 | Perzisztencia         |0,5            |
 | #Betegségek és orvosok|0,5            |
 | Hírességek            |0,5            |
-| Orvvadászok           |0,5            |
+| Alfajok               |0,5            |
 | **Szumma**            |**5,5**        |
  
 
