@@ -21,11 +21,11 @@ A **Szafari** egy komplex menedzsment játék, amely ötvözi a stratégiai gond
 | Alfajok               |0,5            |
 | **Szumma**            |**5,5**        |
  
+
 ## Terv
-* [Wireframe oldal 1 – Kezdő oldal](#wireframe-oldal-1---kezdő-oldal)
-* [Wireframe oldal 2 – Világ kiválasztása](#wireframe-oldal-2---világ-kiválasztása)
-* [Wireframe oldal 3 – Játéktér](#wireframe-oldal-3---játéktér)
-* [Felhasználói történetek](#felhasználói-történetek)
+* [Wireframe](#wireframe)
+* [Felhasználói történet](#felhasználói-történet)
+
 
 
 ## UML diagramok
