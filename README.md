@@ -68,6 +68,7 @@ A **Szafari** egy komplex menedzsment játék, amely ötvözi a stratégiai gond
 |                               | **Előfeltétel** | A játékos a főmenüben tartózkodik. |
 |                               | **Esemény**   | A játékos megnyomja a „Játék betöltése” gombot. |
 |                               | **Eredmény**  | Megjelenik a betölthető játékállások listája. |
+|                               |               |                               |
 |                               | **Előfeltétel** | A betölthető játékállások listája elérhető. |
 |                               | **Esemény**   | A játékos kiválasztja a megfelelő mentést. |
 |                               | **Eredmény**  | A játéktér betöltődik az adott állással. |
@@ -76,6 +77,7 @@ A **Szafari** egy komplex menedzsment játék, amely ötvözi a stratégiai gond
 |                               | **Előfeltétel** | A játékos a játéktéren tartózkodik. |
 |                               | **Esemény**   | A játékos megnyitja a shopot a bal alsó gomb segítségével. |
 |                               | **Eredmény**  | A shop felülete megnyílik. |
+|                               |               |                               |
 |                               | **Előfeltétel** | A játékos a shop felületén tartózkodik. |
 |                               | **Esemény**   | A játékos kiválaszt egy terméket. |
 |                               | **Eredmény**  | A kiválasztott termék elhelyezésre kerül a parkban. |
@@ -89,6 +91,7 @@ A **Szafari** egy komplex menedzsment játék, amely ötvözi a stratégiai gond
 |                               | **Előfeltétel** | A játékos a játéktéren tartózkodik. |
 |                               | **Esemény**   | A játékos kiválaszt egy állatot. |
 |                               | **Eredmény**  | Megjelenik az állat adatait tartalmazó panel. |
+|                               |               |                               |
 |                               | **Előfeltétel** | A játékos az állat információs panelján tartózkodik. |
 |                               | **Esemény**   | A játékos megnyomja az „Eladás” gombot. |
 |                               | **Eredmény**  | Az állat eltűnik a parkból, és a megfelelő pénzösszeg jóváírásra kerül a játékos egyenlegén. |
@@ -102,6 +105,7 @@ A **Szafari** egy komplex menedzsment játék, amely ötvözi a stratégiai gond
 |                               | **Előfeltétel** | A játékos a játéktéren tartózkodik. |
 |                               | **Esemény**   | A játékos kiválasztja a vadőrt. |
 |                               | **Eredmény**  | Megjelenik a vadőr adatlapja. |
+|                               |               |                               |
 |                               | **Előfeltétel** | A vadőrt lehet utasítani. |
 |                               | **Esemény**   | A játékos kiad egy lövési parancsot. |
 |                               | **Eredmény**  | A kijelölt állat vagy orvvadász elpusztul. |
