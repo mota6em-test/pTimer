@@ -54,84 +54,17 @@ A **Szafari** egy komplex menedzsment játék, amely ötvözi a stratégiai gond
 ---
  
 ## Felhasználói történet
-### **Új Játék Indítása**
+## Felhasználói történet
 
-**Szereplő:** Játékos\
-**Cél:** Új játék indítása\
-**Előfeltétel:** A játékos a főmenüben tartózkodik.\
-**Esemény:** A játékos megnyomja az „Új játék” gombot, majd kiválasztja a nehézségi szintet.\
-**Eredmény:** A játéktér betöltődik és a játék elindul.
-
-
-### **Játék Betöltése**
-
-**Szereplő:** Játékos\
-**Cél:** Meglévő játékállás betöltése\
-**Előfeltétel:** A játékos a főmenüben tartózkodik.\
-**Esemény:** A játékos megnyomja a „Játék betöltése” gombot.\
-**Eredmény:** Megjelenik a betölthető játékállások listája.
-
-**Előfeltétel:** A betölthető játékállások listája elérhető.\
-**Esemény:** A játékos kiválasztja a megfelelő mentést.\
-**Eredmény:** A játéktér betöltődik az adott állással.
-
-
-### **Vásárlás a Játékban**
-
-**Szereplő:** Játékos\
-**Cél:** Termék vásárlása a játékbeli shopból\
-**Előfeltétel:** A játékos a játéktéren tartózkodik.\
-**Esemény:** A játékos megnyitja a shopot a bal alsó gomb segítségével.\
-**Eredmény:** A shop felülete megnyílik.
-
-**Előfeltétel:** A játékos a shop felületén tartózkodik.\
-**Esemény:** A játékos kiválaszt egy terméket.\
-**Eredmény:** A kiválasztott termék elhelyezésre kerül a parkban.
-
-
-### **Idő Gyorsítás és Állítása**
-
-**Szereplő:** Játékos\
-**Cél:** Az idő sebességének módosítása\
-**Előfeltétel:** A játékos a játéktéren tartózkodik.\
-**Esemény:** A játékos megnyomja az idő állító gombokat a jobb alsó sarokban.\
-**Eredmény:** Az idő sebessége a kiválasztott értékre áll be.
-
-
-### **Állat Eladása**
-
-**Szereplő:** Játékos\
-**Cél:** Egy állat értékesítése\
-**Előfeltétel:** A játékos a játéktéren tartózkodik.\
-**Esemény:** A játékos kiválaszt egy állatot.\
-**Eredmény:** Megjelenik az állat adatait tartalmazó panel.
-
-**Előfeltétel:** A játékos az állat információs panelján tartózkodik.\
-**Esemény:** A játékos megnyomja az „Eladás” gombot.\
-**Eredmény:** Az állat eltűnik a parkból, és a megfelelő pénzösszeg jóváírásra kerül a játékos egyenlegén.
-
-
-### **Belépődíj Módosítása**
-
-**Szereplő:** Játékos\
-**Cél:** A park belépődíjának módosítása\
-**Előfeltétel:** A játékos a játéktéren tartózkodik.\
-**Esemény:** A játékos módosítja a belépődíj összegét a felső menüsoron.\
-**Eredmény:** A belépődíj új értéke érvénybe lép.
-
-
-
-### **Vadőr Irányítása**
-
-**Szereplő:** Játékos\
-**Cél:** A vadőr irányítása és feladatainak ellátása\
-**Előfeltétel:** A játékos a játéktéren tartózkodik.\
-**Esemény:** A játékos kiválasztja a vadőrt.\
-**Eredmény:** Megjelenik a vadőr adatlapja.
-
-**Előfeltétel:** A vadőrt lehet utasítani.\
-**Esemény:** A játékos kiad egy lövési parancsot.\
-**Eredmény:** A kijelölt állat vagy orvvadász elpusztul.
+| Eset                          | Leírás |
+|-------------------------------|--------|
+| **Új Játék Indítása**         | **Szereplő:** Játékos  <br> **Cél:** Új játék indítása  <br> **Előfeltétel:** A játékos a főmenüben tartózkodik.  <br> **Esemény:** A játékos megnyomja az „Új játék” gombot, majd kiválasztja a nehézségi szintet.  <br> **Eredmény:** A játéktér betöltődik és a játék elindul. |
+| **Játék Betöltése**           | **Szereplő:** Játékos  <br> **Cél:** Meglévő játékállás betöltése  <br> **Előfeltétel:** A játékos a főmenüben tartózkodik.  <br> **Esemény:** A játékos megnyomja a „Játék betöltése” gombot.  <br> **Eredmény:** Megjelenik a betölthető játékállások listája.  <br> **Előfeltétel:** A betölthető játékállások listája elérhető.  <br> **Esemény:** A játékos kiválasztja a megfelelő mentést.  <br> **Eredmény:** A játéktér betöltődik az adott állással. |
+| **Vásárlás a Játékban**       | **Szereplő:** Játékos  <br> **Cél:** Termék vásárlása a játékbeli shopból  <br> **Előfeltétel:** A játékos a játéktéren tartózkodik.  <br> **Esemény:** A játékos megnyitja a shopot a bal alsó gomb segítségével.  <br> **Eredmény:** A shop felülete megnyílik.  <br> **Előfeltétel:** A játékos a shop felületén tartózkodik.  <br> **Esemény:** A játékos kiválaszt egy terméket.  <br> **Eredmény:** A kiválasztott termék elhelyezésre kerül a parkban. |
+| **Idő Gyorsítás és Állítása** | **Szereplő:** Játékos  <br> **Cél:** Az idő sebességének módosítása  <br> **Előfeltétel:** A játékos a játéktéren tartózkodik.  <br> **Esemény:** A játékos megnyomja az idő állító gombokat a jobb alsó sarokban.  <br> **Eredmény:** Az idő sebessége a kiválasztott értékre áll be. |
+| **Állat Eladása**             | **Szereplő:** Játékos  <br> **Cél:** Egy állat értékesítése  <br> **Előfeltétel:** A játékos a játéktéren tartózkodik.  <br> **Esemény:** A játékos kiválaszt egy állatot.  <br> **Eredmény:** Megjelenik az állat adatait tartalmazó panel.  <br> **Előfeltétel:** A játékos az állat információs panelján tartózkodik.  <br> **Esemény:** A játékos megnyomja az „Eladás” gombot.  <br> **Eredmény:** Az állat eltűnik a parkból, és a megfelelő pénzösszeg jóváírásra kerül a játékos egyenlegén. |
+| **Belépődíj Módosítása**      | **Szereplő:** Játékos  <br> **Cél:** A park belépődíjának módosítása  <br> **Előfeltétel:** A játékos a játéktéren tartózkodik.  <br> **Esemény:** A játékos módosítja a belépődíj összegét a felső menüsoron.  <br> **Eredmény:** A belépődíj új értéke érvénybe lép. |
+| **Vadőr Irányítása**          | **Szereplő:** Játékos  <br> **Cél:** A vadőr irányítása és feladatainak ellátása  <br> **Előfeltétel:** A játékos a játéktéren tartózkodik.  <br> **Esemény:** A játékos kiválasztja a vadőrt.  <br> **Eredmény:** Megjelenik a vadőr adatlapja.  <br> **Előfeltétel:** A vadőrt lehet utasítani.  <br> **Esemény:** A játékos kiad egy lövési parancsot.  <br> **Eredmény:** A kijelölt állat vagy orvvadász elpusztul. |
 
 ---
 
