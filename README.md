@@ -40,7 +40,7 @@ A **Szafari** egy komplex menedzsment játék, amely ötvözi a stratégiai gond
 
 
 ## Wireframe
-### Wireframe oldal 1 - Kedzdő oldal
+### Wireframe oldal 1 - Kezdő oldal
 ![Wireframe page 1](https://szofttech.inf.elte.hu/szofttech-c-2025/group-10/the-great-reserve/-/raw/master/Page_1.png?ref_type=heads "Wireframe page 1")
 ### Wireframe oldal 2 - Világ kiválasztása
 ![Wireframe page 1](https://szofttech.inf.elte.hu/szofttech-c-2025/group-10/the-great-reserve/-/raw/master/Page_2.png?ref_type=heads "Wireframe page 2")
